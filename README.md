@@ -1,9 +1,16 @@
 # SafePath - Frontend
 
-## GitHub Pages
+## Frontend Deployment
 
-**URL:** https://skill-in-projects.github.io/6a3c23f00fd31a6e46e27319/
+**GitHub Pages URL:** https://skill-in-projects.github.io/6a3c23f00fd31a6e46e27319/
 
-## Stack
+## Backend API
 
-React + Vite. Run `npm install` then `npm run dev` or `npm start`. Use `npm run lint` and `npm run format` for ESLint and Prettier.
+**API URL:** https://webapi6a3c23f00fd31a6e46e27319-production.up.railway.app
+
+## Project Structure
+
+- `index.html` - Main landing page
+- `config.js` - API configuration
+- `style.css` - Styling
+
